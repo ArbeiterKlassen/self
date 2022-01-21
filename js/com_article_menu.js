@@ -17,7 +17,6 @@ document.write('                                <span class="article-author one-
 document.write('                            </span>')                           
 document.write('                        </div>')
 document.write('                    </div>')
-    
 document.write('                    <div class="article-box">')
 document.write('                        <div class="ab-content">')
 document.write('                            <a href="../articles/三篇读后杂记.html" class="article-img-box">')
@@ -36,7 +35,6 @@ document.write('                                <span class="article-author one-
 document.write('                            </span>')                           
 document.write('                        </div>')
 document.write('                    </div>')
-
 document.write('                    <div class="article-box">')
 document.write('                        <div class="ab-content">')
 document.write('                            <a href="../articles/论中国国家资本.html" class="article-img-box">')
@@ -55,7 +53,6 @@ document.write('                                <span class="article-author one-
 document.write('                            </span>')
 document.write('                        </div>')
 document.write('                    </div>')
-
 document.write('                    <div class="article-box">')
 document.write('                        <div class="ab-content">')
 document.write('                            <a href="../articles/评当前补习班教育问题.html" class="article-img-box">')
@@ -66,7 +63,6 @@ document.write('                                <a href="../articles/评当前�
 document.write('                            </div>')
 document.write('                            <div class="article-detail-box c-666">')
 document.write('                                社会上的基础设施——教育，医疗，工业开始过度市场化。失去了国家政府的管控，自由的市场经济——自由的资本主义开始垄断各行各业。抛去网络，医疗，工业，剩下一个教育成为了金融资本的角逐地。')
-
 document.write('                            </div>')
 document.write('                            <span class="article-tail-box">')
 document.write('                                <span class="comment-number c-999 fl">社会分析</span>')
@@ -75,7 +71,6 @@ document.write('                                <span class="article-author one-
 document.write('                            </span>')
 document.write('                        </div>')
 document.write('                    </div>')
-
 document.write('                    <div class="article-box">')
 document.write('                        <div class="ab-content">')
 document.write('                            <a href="../articles/谈近期的反黑人思潮.html" class="article-img-box">')
@@ -86,7 +81,6 @@ document.write('                                <a href="../articles/谈近期�
 document.write('                            </div>')
 document.write('                            <div class="article-detail-box c-666">')
 document.write('                                随着我国改革开放的推进，中国的综合国力不断增强；同时，经济实力的不断提高，吸引了一大批外国籍人士来华。2000年之后，随着我国与大量亚非国家共创的“一带一路”建设的不断推进，大批非洲国家人士来华留学经商。大批非洲国家人士——或者直说黑人入境，直接引发了两个问题——怎么安置外国人？怎么指定对外国人的相应政策？')
-
 document.write('                            </div>')
 document.write('                            <span class="article-tail-box">')
 document.write('                                <span class="comment-number c-999 fl">社会分析</span>')
@@ -95,7 +89,6 @@ document.write('                                <span class="article-author one-
 document.write('                            </span>')
 document.write('                        </div>')
 document.write('                    </div>')
-
 document.write('                    <div class="article-box">')
 document.write('                        <div class="ab-content">')
 document.write('                            <a href="../articles/怎么办（1）.html" class="article-img-box">')
@@ -106,7 +99,6 @@ document.write('                                <a href="../articles/怎么办�
 document.write('                            </div>')
 document.write('                            <div class="article-detail-box c-666">')
 document.write('                                进入20世纪，俄国首先爆发了1917年的十月革命，一声炮响给中国人民带来了马克思主义。紧接着是1915年中国新文化运动向马克思主义的转变和1919年五四运动的爆发，青年学生和工人站在了革命的前线。1921年，中国共产党成立并开始领导中国工人运动。')
-
 document.write('                            </div>')
 document.write('                            <span class="article-tail-box">')
 document.write('                                <span class="comment-number c-999 fl">行动理论</span>')
@@ -115,7 +107,6 @@ document.write('                                <span class="article-author one-
 document.write('                            </span>')
 document.write('                        </div>')
 document.write('                    </div>')
-
 document.write('                    <div class="article-box">')
 document.write('                        <div class="ab-content">')
 document.write('                            <a href="../articles/谈巴以冲突.html" class="article-img-box">')
@@ -126,7 +117,6 @@ document.write('                                <a href="../articles/谈巴以�
 document.write('                            </div>')
 document.write('                            <div class="article-detail-box c-666">')
 document.write('                                我们认为，巴以冲突的表面是宗教和民族的历史矛盾，实质是巴以反战的人民和美国以色列大资本家战争贩子的矛盾。是全世界反战的人民，反战的共产主义者同大资本家战争贩子的斗争。')
-
 document.write('                            </div>')
 document.write('                            <span class="article-tail-box">')
 document.write('                                <span class="comment-number c-999 fl">社会分析</span>')
